@@ -6,10 +6,13 @@
     <PackageId>LiquidCrystal_I2C</PackageId>
     <Authors>Maharishi Bhatia</Authors>
     <Product>LiquidCrystal_I2C</Product>
-    <Description>Liquid Crystal Display Library for 16x2 or 20x4 with I2C controller.</Description>
+    <Description>Liquid Crystal Display Library for 16x2 or 20x4 with I2C controller for Raspberry Pi.</Description>
     <PackageLicenseFile>GNU.txt</PackageLicenseFile>
     <RepositoryUrl>https://github.com/maharishi/LiquidCrystal_I2C</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
+    <PackageProjectUrl>https://github.com/maharishi/LiquidCrystal_I2C</PackageProjectUrl>
+    <Copyright>Maharishi Bhatia</Copyright>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
