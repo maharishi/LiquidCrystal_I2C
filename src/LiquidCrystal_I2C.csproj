@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -8,6 +8,8 @@
     <Product>LiquidCrystal_I2C</Product>
     <Description>Liquid Crystal Display Library for 16x2 or 20x4 with I2C controller.</Description>
     <PackageLicenseFile>GNU.txt</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/maharishi/LiquidCrystal_I2C</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
